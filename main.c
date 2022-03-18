@@ -25,3 +25,4 @@ origin 3
 local 4
 local 5
 origin 5
+local 6
